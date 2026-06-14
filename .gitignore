@@ -1,0 +1,14 @@
+__pycache__/
+.ipynb_checkpoints/
+.virtual_documents/
+
+*.pyc
+*.pyo
+*.pyd
+
+.env
+venv/
+.venv/
+
+saved_model/
+Dataset/
